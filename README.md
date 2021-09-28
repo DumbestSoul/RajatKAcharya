@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RajatKAcharya
-- 👀 I’m interested in Computer Vision AI
-- 🌱 I’m currently learning OpenCV
-- 💞️ I’m looking to collaborate on OpenCV projects to have grasp on the concepts
+- 👀 I’m interested in Coding 
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate with different 'gurus' in software field and learn from them
 - 📫 How to reach me ...
 
 <!---
