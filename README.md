@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @RajatKAcharya
-- 👀 I’m interested in Coding 
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate with different 'gurus' in software field and learn from them
-- 📫 How to reach me ...
+- 👋 Hi, I’m @RajatKAcharya and my pen name is DumbestSoul!
+- 👀 I’m interested in Coding, reading novels, may be making android apps(recent interest) and learning more about the different machine learning models/algoriothms.
+- 🌱 I’m currently learning and practicing CP(really a newbie in it) and different DSA algorithms.
 
 <!---
 RajatKAcharya/RajatKAcharya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
